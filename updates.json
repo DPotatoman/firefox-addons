@@ -3,9 +3,9 @@
     "ultimate-youtube-hub@jarvis.local": {
       "updates": [
         {
-          "update_hash": "sha256:29515a9df470b07f1cb0b1cc50e940ad3e3d8ed51dc616a585cc3b4650bd1d82",
-          "version": "0.2.2",
-          "update_link": "https://dpotatoman.github.io/firefox-addons/uyh/ultimate-youtube-hub-v0.2.2-signed.xpi"
+          "update_hash": "sha256:27139691f148ea361afed6c1a3f9325c63c79b6a52865bd3707e0ac81b92e871",
+          "version": "0.2.3",
+          "update_link": "https://dpotatoman.github.io/firefox-addons/uyh/ultimate-youtube-hub-v0.2.3-signed.xpi"
         }
       ]
     }
